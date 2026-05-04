@@ -1,0 +1,6 @@
+frontend/node_modules/
+backend/vendor/
+backend/.env
+backend/database/database.sqlite
+.DS_Store
+*.log
