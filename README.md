@@ -1,5 +1,7 @@
 # CashFlow - Personal Finance Manager
 
+![CashFlow Preview](with%20api%20laravel.png)
+
 A full-stack personal finance application built with React and Laravel.
 
 ## Features
@@ -26,10 +28,3 @@ A full-stack personal finance application built with React and Laravel.
 1. Go to `frontend` folder.
 2. Run `pnpm install`.
 3. Run `pnpm dev`.
-
-## Application Preview
-
-Here is a preview of the CashFlow personal finance manager application interface:
-
-![CashFlow Preview](with%20api%20laravel.png)
-
